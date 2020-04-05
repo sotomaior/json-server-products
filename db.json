@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "f6fbac03-a93a-42db-839e-053ef4b04eca",
+      "name": "Elmex Sensitive Plus Collutorio -400 ml",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8718951021464"
+        },
+        {
+          "key": "asin",
+          "value": "B0158NRZC4"
+        },
+        {
+          "key": "minsan",
+          "value": "927046565"
+        }
+      ]
+    },
+    {
+      "id": "fe49e75e-267c-4ede-a22b-5419caa4a975",
+      "name": "Kukident Complete Plus 70 Gr",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "5000174904390"
+        },
+        {
+          "key": "asin",
+          "value": "B00O12TS74"
+        }
+      ]
+    }    
+  ]
+}
