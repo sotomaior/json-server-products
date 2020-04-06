@@ -35,6 +35,30 @@
           "value": "B00O12TS74"
         }
       ]
-    }    
+    },
+    {
+      "id": "",
+      "name": "RESVIS XR Fluid 12 Bustine da 3,65g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "minsan",
+          "value": "933080196"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Arachidi CAMEO 300g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8003000030901"
+        }
+      ]
+    }
   ]
 }
