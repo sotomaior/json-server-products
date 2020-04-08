@@ -95,6 +95,30 @@
           "value": "8076802085981"
         }
       ]
-    }
+    },
+    {
+      "id": "",
+      "name": "WC Gel sbiancante",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8006130504137"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Rio Mare Tonno All'Olio Di Oliva 3 X 160 G",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8004030383470"
+        }
+      ]
+    }    
   ]
 }
