@@ -119,6 +119,18 @@
           "value": "8004030383470"
         }
       ]
+    },
+    {
+      "id": "",
+      "name": "MENTAL - confetti al latte e menta busta gr150",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8000635081308"
+        }
+      ]
     }    
   ]
 }
