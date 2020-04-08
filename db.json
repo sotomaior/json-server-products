@@ -59,6 +59,42 @@
           "value": "8003000030901"
         }
       ]
+    },
+    {
+      "id": "",
+      "name": "MULINO BIANCO PAN CARRE' 24 FETTE GR.450",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8076809530842"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Motta Girella 8 x 35 g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8014037002373"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "BARILLA Fusilli N 98 Pasta 500 Grammi",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8076802085981"
+        }
+      ]
     }
   ]
 }
