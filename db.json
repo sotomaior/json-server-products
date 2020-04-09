@@ -131,6 +131,30 @@
           "value": "8000635081308"
         }
       ]
-    }    
+    },
+    {
+      "id": "",
+      "name": "Neutro Roberts Dermazero Bagnodoccia 500 ml",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8002410008678"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Ferrero fiesta Classica 10 x 36 g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8000500248744"
+        }
+      ]
+    }
   ]
 }
