@@ -155,6 +155,30 @@
           "value": "8000500248744"
         }
       ]
-    }
+    },
+    {
+      "id": "",
+      "name": "Lavazza Caffè Macinato Crema e Gusto 4x250g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8000070038042"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Mulino Bianco Trancino 396 g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8076809542760"
+        }
+      ]
+    }    
   ]
 }
