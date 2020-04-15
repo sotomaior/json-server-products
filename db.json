@@ -179,6 +179,18 @@
           "value": "8076809542760"
         }
       ]
+    },
+    {
+      "id": "",
+      "name": "Santàl frutti rossi 1000 ml",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8002580027059"
+        }
+      ]
     }    
   ]
 }
