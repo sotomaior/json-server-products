@@ -191,6 +191,94 @@
           "value": "8002580027059"
         }
       ]
+    },
+    {
+      "id": "",
+      "name": "Pan di Stelle - Mulino Bianco - 350 g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8076809500302"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Rizla 1600 Cartine Silver King Size Slim Box Da 50 Libretti",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "5410133833089"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Everton Zucchero Di Canna 1Kg",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8007185019027"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Taralli gusto classico - 500 g",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8015592000101"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Rizla 2400 FILTRI ultra slim in 20 scatole da 120 filtri per sigarette",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "4030700114307"
+        },
+        {
+          "key": "asin",
+          "value": "B00K6CYPEY"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "PRESSOSTATO AUTOCLAVE SQUARE D FSG-2 9013 REGOLABILE WATER PUMP PRESSURE",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "3389110524222"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": " Dettagli su  Ripetitore Segnale Wireless-N Con Rete LAN E WPS Amplificatore Wifi Extender",
+      "description": "",
+      "brand": "",
+      "identifier": [
+        {
+          "key": "ean13",
+          "value": "8050705800247"
+        }
+      ]
     }    
   ]
 }
